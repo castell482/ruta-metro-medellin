@@ -112,7 +112,6 @@ ruta-metro-medellin/
 │   ├── test_busqueda.py
 │   └── generar_pdf_pruebas.py # Genera docs/Pruebas_realizadas.pdf
 └── docs/
-    ├── guion_video.md         # Guion del video-tutorial
     └── Pruebas_realizadas.pdf
 ```
 
